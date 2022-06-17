@@ -7,8 +7,6 @@
 
 Datasette plugin providing the low_disk_space hook for other plugins to check for low disk space
 
-**Highly experimental**. Do not use this yet.
-
 ## Installation
 
 Install this plugin in the same environment as Datasette.
